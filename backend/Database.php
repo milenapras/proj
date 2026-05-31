@@ -7,7 +7,7 @@ class Database {
     private $host = 'localhost';
     private $dbname = 'u82575';        // Ваша база данных
     private $username = 'u82575';       // Ваш пользователь
-    private $password = '6033784';      // Ваш пароль
+    private $password = '6433784';      // Ваш пароль
     
     private function __construct() {
         try {
